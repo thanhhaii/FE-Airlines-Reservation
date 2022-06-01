@@ -1,0 +1,16 @@
+.header {
+  height: 3.8rem;
+  z-index: 99;
+
+  ul.parent__layout {
+    list-style: none;
+    > li {
+      display: inline;
+      margin: 0 1.2rem;
+    }
+  }
+}
+
+.logOut{
+  cursor: pointer;
+}
